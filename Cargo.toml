@@ -1,0 +1,11 @@
+[package]
+
+name = "redox"
+version = "0.0.1"
+authors = ["Jimmy Cuadra <jimmy@jimmycuadra.com>"]
+description = "A testing framework for Rust."
+license = "MIT"
+readme = "README.md"
+keywords = ["test", "testing"]
+repository = "https://github.com/jimmycuadra/redox"
+homepage = "https://github.com/jimmycuadra/redox"
